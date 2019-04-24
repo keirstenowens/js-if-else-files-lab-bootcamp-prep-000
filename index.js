@@ -6,10 +6,10 @@ if (name === "Joe") {
 } else {
   console.log("Expected the name to be Susan")
 }
-if (height === 70) {
+if (height === 74) {
   console.log("The height is correct")
 } else {
-  console.log(74)
+  console.log("Expected height to be 70")
 }
 // Don't worry about this
 module.exports = { name, height
